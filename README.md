@@ -11,4 +11,4 @@ Hope to get many suggestions and perfect this project.
 ## 目前功能：  
 中英文文献去除多余的换行符。      
 
-![Image text](https://github.com/TophTab/literatureorpdf-copy/blob/main/QQ%E5%9B%BE%E7%89%8720210105215803.jpg)
+![支付宝(Alipay)](https://github.com/TophTab/literatureorpdf-copy/blob/main/QR%20code.jpg)
