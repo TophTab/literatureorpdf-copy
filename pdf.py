@@ -5,6 +5,7 @@ import re
 sys.path.append(os.path.abspath("SO_site-packages"))
 import pyperclip  # 引入模块
 print("文献复制中英结合版")
+print("literaturecopy_both english and chinese")
 print("version 0.2")
 print("by TophTab")
 print("support me via Alipay:15279108805,even $1 is big support to author.")
@@ -40,5 +41,5 @@ while True:
                 Chinese(recent_value)
             else:
                 English(recent_value)
-    except KeyboardInterrupt:  # 如果有ctrl+c，那么就退出这个程序。  （不过好像并没有用。无伤大雅）
+    except KeyboardInterrupt:  # 如果有ctrl+c，那么就退出这个程序。
         break
