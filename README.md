@@ -6,7 +6,9 @@ Do you have a headache when copying parts of a document? Fortunately, you've fou
 有任何建议请到issue里提问     
 另外，非常希望能得到宝贵的建议，希望能将这个项目完善到完美。      
 any suggestion, post it in issue.     
-Hope to get many suggestions and perfect this project.
+Hope to get many suggestions and perfect this project.      
     
 ## 目前功能：  
-中英文文献去除多余的换行符。
+中英文文献去除多余的换行符。      
+
+![Image text](https://github.com/TophTab/literatureorpdf-copy/blob/main/QQ%E5%9B%BE%E7%89%8720210105215803.jpg)
