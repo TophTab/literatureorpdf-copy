@@ -5,6 +5,6 @@ Do you have a headache when copying parts of a document? Fortunately, you've fou
 
 有任何建议请到issue里提问 
 any suggestion, post it in issue. 
-/n
+    
 #目前功能：
 中英文分别解决换行问题。
