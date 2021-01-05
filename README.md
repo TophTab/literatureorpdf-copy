@@ -9,4 +9,4 @@ any suggestion, post it in issue.
 Hope to get many suggestions and perfect this project.
     
 ## 目前功能：  
-中英文分别解决换行问题。
+中英文文献去除多余的换行符。
