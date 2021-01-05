@@ -8,5 +8,5 @@ Do you have a headache when copying parts of a document? Fortunately, you've fou
 any suggestion, post it in issue.     
 Hope to get many suggestions and perfect this project.
     
-##目前功能：  
+h1目前功能：  
 中英文分别解决换行问题。
