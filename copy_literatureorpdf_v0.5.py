@@ -9,6 +9,7 @@ print("""
 literaturecopy_both english and chinese
 version 0.5
 by TophTab
+https://github.com/TophTab/literatureorpdf-copy
 support me via Alipay QR code,even $1 is big support to author.
 """)
 recent_value = ""
