@@ -7,7 +7,7 @@ import pyperclip  # 引入模块
 print("""
 文献复制中英结合版
 literaturecopy_both english and chinese
-version 0.4
+version 0.5
 by TophTab
 support me via Alipay QR code,even $1 is big support to author.
 """)
